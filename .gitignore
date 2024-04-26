@@ -1,0 +1,9 @@
+raw-wiktextract-data.json
+.venv
+./datasets/preprocessed/*
+./datasets/stopwords/*
+./datasets/virgin-datasets/*
+
+./models/metrics/*
+./models/misc/*
+./models/trained/*
