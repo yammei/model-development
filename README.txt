@@ -1,8 +1,8 @@
-___________________________________ ABOUT ___________________________________
+ABOUT 𑁍ࠬܓ ___________________________________
 The objective of this project is to build a small language model to predict words in a "texting/messaging" context.
 The datasets I'm using will be mostly text from platforms, or by submissions, in an online messaging setting.
 
-___________________________________ DATA CONTRIBUTIONS ___________________________________
+DATA CONTRIBUTIONS 𑁍ࠬܓ ___________________________________
 If you're interested in submitting messages or texts for the data, please adhere to the following.
 
 Submission Guidelines:
@@ -36,7 +36,7 @@ be credited for their participation in credits section of this README file.
 
 Thank you for your support and contributions! - Mei
 
-___________________________________ PROJECT RESOURCES ___________________________________
+PROJECT RESOURCES 𑁍ࠬܓ ___________________________________
 These are just a list of resources/references I've used to work on this project.
 
 Clean Preprocessed Wiktionary Data by Wikextract project.
@@ -63,7 +63,7 @@ https://gluebenchmark.com/tasks
 Cross-Validation Explained
 https://youtu.be/fSytzGwwBVw?si=QQiLQ1sPMuzvfiHr
 
-___________________________________ CREDITS ___________________________________
+CREDITS 𑁍ࠬܓ ___________________________________
 Thanks to the following for contributing and supporting this project!
 
 <Example-Contributer-Name>
